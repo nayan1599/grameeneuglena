@@ -159,10 +159,41 @@
                         </div>
                     </div>
                 </swiper-slide>
-
+      <swiper-slide>
+                    <div class="top_news_item">
+                        <div class="top_news_image">
+                            <img src="inclode/img/news1.png" alt="news" class="img-fluid">
+                            <div class="top_news_overlay">
+                                <div class="overlay_content">
+                                    <span class="news_date">2025.10.01</span>
+                                    <p>"Euglena Festival 2025" to be held on Sunday,</p>
+                                    <a href="#" class="overlay_btn">
+                                        <i class="fas fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </swiper-slide>
+                      <swiper-slide>
+                    <div class="top_news_item">
+                        <div class="top_news_image">
+                            <img src="inclode/img/news1.png" alt="news" class="img-fluid">
+                            <div class="top_news_overlay">
+                                <div class="overlay_content">
+                                    <span class="news_date">2025.10.01</span>
+                                    <p>"Euglena Festival 2025" to be held on Sunday,</p>
+                                    <a href="#" class="overlay_btn">
+                                        <i class="fas fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </swiper-slide>
             </swiper-container>
 
-            <div class="custom-pagination"></div>
+            <div class="custom-pagination text-center pt-4"></div>
 
 
         </div>
@@ -356,6 +387,58 @@
                     </div>
 
                 </swiper-slide>
+                 <swiper-slide>
+
+                    <div class="top_news_item hover-card">
+                        <div class="top_news_image">
+                            <img src="inclode/img/Program2.png" class="img-fluid w-100 card-img" alt="IFAD and Japan's MAFF...">
+                            <div class="top_news_overlay">
+                                <div class="overlay_content">
+                                    <span class="news_date">Social Business (Agriculture)</span>
+                                    <p>Euglena Co. is working with its local subsidiary Grameen Euglena</p>
+                                    <a href="#" class="overlay_btn">
+                                        <i class="fas fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="program_overlay d-flex flex-column justify-content-end p-3">
+                                <a href="ifad-and-japan-s-maff-connect-sesame-producers-in-bangladesh-with-japanese-company-euglena">
+                                    <div class="text-white font_size">Social Business (Agriculture)</div>
+                                </a>
+                                <p class="text-white small mb-0">Euglena Co. is working with its local subsidiary Grameen Euglena <a href="#"> More</a></p>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </swiper-slide>
+                 <swiper-slide>
+
+                    <div class="top_news_item hover-card">
+                        <div class="top_news_image">
+                            <img src="inclode/img/Program2.png" class="img-fluid w-100 card-img" alt="IFAD and Japan's MAFF...">
+                            <div class="top_news_overlay">
+                                <div class="overlay_content">
+                                    <span class="news_date">Social Business (Agriculture)</span>
+                                    <p>Euglena Co. is working with its local subsidiary Grameen Euglena</p>
+                                    <a href="#" class="overlay_btn">
+                                        <i class="fas fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="program_overlay d-flex flex-column justify-content-end p-3">
+                                <a href="ifad-and-japan-s-maff-connect-sesame-producers-in-bangladesh-with-japanese-company-euglena">
+                                    <div class="text-white font_size">Social Business (Agriculture)</div>
+                                </a>
+                                <p class="text-white small mb-0">Euglena Co. is working with its local subsidiary Grameen Euglena <a href="#"> More</a></p>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </swiper-slide>
                 <swiper-slide>
 
 
@@ -387,7 +470,7 @@
                 </swiper-slide>
             </swiper-container>
 
-            <div class="progrom-pagination"></div>
+            <div class="progrom-pagination text-center pt-4"></div>
         </div>
     </section>
     <div class="program_footer_imag">

@@ -405,7 +405,10 @@ body {
     transform: translateY(0);
 }
 
-
+ 
+    .progrom-pagination, .custom-pagination {
+        text-align: center !important;
+    }
 /* ============================================= partnets section ============================================ */
 
 .partners_image .img {
