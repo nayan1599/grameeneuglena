@@ -59,9 +59,10 @@
                             </ul>
                         </div>
                     </li>
+                    <li class="nav-item d-block d-lg-none"><a class="nav-link" href="#">what is Euglena?</a></li>
+                    <li class="nav-item d-block d-lg-none"><a class="nav-link" href="#">What is Chlotrlla?</a></li>
 
 
-                   
                 </ul>
             </div>
         </div>
